@@ -21,7 +21,6 @@ public class HashMapCalculator {
 				}
 			}
 		}
-		System.out.println(numberOfPairs);
 		return numberOfPairs / 4;
 	}
 }
